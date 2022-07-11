@@ -1,2 +1,2 @@
 # citra
-Projek Aplikasi vue sebagai bahan belajar kelas Full-Stack Laravel VueJS (Toko Online)
+Projek aplikasi Vue sebagai bahan belajar kelas Full-Stack Laravel VueJS (Toko Online)
